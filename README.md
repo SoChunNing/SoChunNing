@@ -2,10 +2,11 @@
 
 - I'm So Chun Ning from HK, and you guys can call me Felix.
 - I’m studying at The Chinese University of Hong Kong, majoring in BEng: AIST.
-- I’m currently learning AI technology.
+- I’m currently learning AI technology (specifically in Computer Vision and LLM).
 - I'm quite good at badminton and cycling.
+- I am now seeking a summer intern job ：）
 
-Here is the project I have done so far:</br>
+Here are the projects I have done so far:</br>
 Sound Synthesis Using Computer Vision</br>
 - Used hand gestures to control music pitch with the aid of Python and Supercollider (a sound synthesis. app.)</br>
 - Regenerating well-known pieces of music using hand gestures
